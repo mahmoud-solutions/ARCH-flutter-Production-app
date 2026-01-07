@@ -1,0 +1,8 @@
+<svg viewBox="0 0 26 26" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26.000000" height="26.000000" fill="none">
+	<rect id="meteor-icons:images" width="26.000000" height="26.000000" x="0.000000" y="0.000000" fill="rgb(255,255,255)" fill-opacity="0" />
+	<g id="Group">
+		<path id="Vector" d="M22.7493 1.08301C23.946 1.08301 24.916 2.05306 24.916 3.24967L24.916 18.4163C24.916 19.613 23.946 20.583 22.7493 20.583L7.58268 20.583C6.38607 20.583 5.41602 19.613 5.41602 18.4163L5.41602 3.24967C5.41602 2.05306 6.38607 1.08301 7.58268 1.08301L22.7493 1.08301Z" stroke="rgb(255,255,255)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" />
+		<path id="Vector" d="M18.4167 9.74984C17.22 9.74984 16.25 8.77979 16.25 7.58317C16.25 6.38655 17.22 5.4165 18.4167 5.4165C19.6133 5.4165 20.5833 6.38655 20.5833 7.58317C20.5833 8.77979 19.6133 9.74984 18.4167 9.74984Z" stroke="rgb(255,255,255)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" />
+		<path id="Vector" d="M5.41634 17.3332L11.9163 10.8332L21.6663 20.5832M1.08301 5.4165L1.08301 19.4998C1.08301 20.2112 1.22311 20.9155 1.49533 21.5727C1.76754 22.2299 2.16653 22.827 2.66951 23.33C3.68533 24.3458 5.06309 24.9165 6.49967 24.9165L20.583 24.9165" fill-rule="nonzero" stroke="rgb(255,255,255)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" />
+	</g>
+</svg>
