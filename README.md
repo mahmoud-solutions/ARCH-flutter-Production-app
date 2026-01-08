@@ -2,18 +2,30 @@ StoryHub - Explore Historical Landmarks
 StoryHub is a mobile application that offers a unique experience to explore the most famous historical landmarks in an easy and modern way. The app provides historical information, favorite places management, search, maps, notifications, and more.
 This is a production-ready project, coming soon.
 Features
-Authentication: Sign up, login, and user session management
-Most Famous Places: Display top historical landmarks
-Historical Information: Detailed information about each place
-Favorites: Save your favorite places
-Search: Fast and effective search feature
-Notifications: Custom notifications for updates
-Notes: Add personal notes for places
-Map: Display locations on a map
-Subscriptions: Subscription system for premium content
-Profile: User profile management
-Reviews & Ratings: Rate and review places
-Comments: Comment on places
+Authentication
+Sign up, login, and user session management
+Most Famous Places
+Display top historical landmarks
+Historical Information
+Detailed information about each place
+Favorites
+Save your favorite places
+Search
+Fast and effective search feature
+Notifications
+Custom notifications for updates
+Notes
+Add personal notes for places
+Map
+Display locations on a map
+Subscriptions
+Subscription system for premium content
+Profile
+User profile management
+Reviews & Ratings
+Rate and review places
+Comments
+Comment on places
 Tech Stack & Architecture
 Flutter & Dart
 Clean Architecture
